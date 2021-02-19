@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome, this is Diyap Can Pazar. 👋
 
-<!--
-**diyapcanpazar/diyapcanpazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyapcanpazar/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/PazarDiyapCan)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diyapcanpzr)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&theme=merko">
+
+
+# Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
+[![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
+[![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
+[![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
