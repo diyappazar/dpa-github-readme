@@ -10,6 +10,7 @@ I'm Can, a computer engineering student at Eastern Mediterranean University. �
 - 📥 How to reach me: [@PazarDiyapCan](https://twitter.com/PazarDiyapCan)
 - 🧔🏻 Pronouns: he/him
 - 🤖 I love AI and I will be a pro at it.
+- 👾 World citizen but from NCY.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
 
 
