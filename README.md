@@ -5,7 +5,8 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diyapcanpzr)
 
 LOADING...%#
-I'm Can, a computer engineering student at Eastern Mediterranean University. 👨🏻‍🔬
+<br>
+I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
 
 - 🐍 I'm currently learning [Python]
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)
