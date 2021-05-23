@@ -12,8 +12,6 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 - 🧔🏻 Pronouns: he/him
 - 🤖 I love AI/Machine Learning therefore I will master it.
 - 👾 World citizen but from NCY.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Diyap Can's Top Languages">
@@ -26,3 +24,4 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 [![](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
