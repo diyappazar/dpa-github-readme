@@ -7,7 +7,7 @@ LOADING...%#
 <br>
 I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
 
-- 🐍 I'm currently mastering [Data Science]
+- 🐍 I'm currently mastering [Data Engineering]
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)
 - 🧔🏻 Pronouns: he/him
 - 🤖 I love AI/Machine Learning therefore I will master it.
