@@ -17,8 +17,8 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <p>
  
  ## Interests
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java)]()
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+![Java	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas)]()
  	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
