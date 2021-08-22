@@ -21,6 +21,8 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 [![](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas)]()
+ 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
 </p>
 
