@@ -14,6 +14,12 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 
+<ol>
+	<li>First item</li>
+	<li>Second item</li>
+	<li>Third item</li>
+	<li>Fourth item</li>
+</ol>
 
  ## Interested
  
