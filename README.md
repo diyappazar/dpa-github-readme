@@ -14,8 +14,7 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 
-# Interested
- 
+## Interested
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
