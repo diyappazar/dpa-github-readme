@@ -16,7 +16,7 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 <p>
  
- # Interests
+ ### Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
