@@ -16,12 +16,11 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
 
-<p>
+
  ##Interests
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-</p>
 
