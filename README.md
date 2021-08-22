@@ -23,3 +23,5 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas)]()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
