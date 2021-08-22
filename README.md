@@ -6,7 +6,9 @@ LOADING...%#
 
 <br>
 I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
+
 <br>
+
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)
 - 🤖 I love data therefore I will master it.
 - 👾 World citizen but from NCY.
