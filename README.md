@@ -55,5 +55,8 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
  [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/PazarDiyapCan/)
  ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+ 
+ ## Merged
+ ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" />
