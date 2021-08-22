@@ -23,5 +23,5 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas)]()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
-<iframe id="graph" src="api.html?diyapcanpazar/getIntoProgramming" frameborder="0"></iframe>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight)]()****
 
