@@ -17,7 +17,7 @@ I'm Can, a computer engineering student at Eastern Mediterranean University and 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" /> </p>
 
 
- ##Interests
+ ## Interests
  <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
