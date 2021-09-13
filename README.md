@@ -10,7 +10,7 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
 - 👾 World citizen but from NCY.
 
 
- ## Current Rank 
+ ## 🖥️ Current State 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
@@ -18,9 +18,6 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
 
 <p><br><br><br><br><br><br><br><br><br><br><br><br></p>
 
-
- ## Current State 
- 
  ### ⌨️ Languages
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
