@@ -9,9 +9,9 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
 - 🤖 I love data therefore I will master it.
 - 👾 World citizen but from NCY.
 
-## Current Rank 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
+ ## Current Rank 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?   username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 
 <p><br><br><br><br><br></p>
 
@@ -26,10 +26,12 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
  
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
  ## ⏰ Learning
  
- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-    badge&logo=microsoft%20sql%20server&logoColor=white)
  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
