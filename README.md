@@ -9,23 +9,23 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
 - 🤖 I love data therefore I will master it.
 - 👾 World citizen but from NCY.
 
-<<<<<<< HEAD
+
  ## Current Rank 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?   username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
-=======
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
->>>>>>> parent of 2d38bcf (Update README.md)
 
-<p><br><br><br><br><br></p>
 
- ## Main 
+<p><br><br><br><br><br><br><br><br><br><br><br><br></p>
+
+
+ ## Current State 
  
  ### ⌨️ Languages
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  
  ### 📚 Libraries, Platforms and Frameworks
  
@@ -33,6 +33,17 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+ ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ ![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+ ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+ ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
  
  ## ⏰ Learning
  
@@ -41,7 +52,7 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  
- ## 💻 Have Used (Languages && Libraries)
+ ## 💻 Previous State (Languages && Libraries)
  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
