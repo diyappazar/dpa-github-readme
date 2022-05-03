@@ -3,13 +3,13 @@
 <br>
 Hey I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
 
-<br><br>
+<br>
 
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)
 - 🤖 I love data therefore I will master it.
 
 
- ### ⌨️ Languages
+ ## ⌨️ Languages
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,7 +20,7 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  
- ### 📚 Tools
+ ## 📚 Tools
  
  ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,7 +34,7 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
  ![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
  
- ### 🛫 Learning About
+ ## 🛫 Learning About
  
  ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
