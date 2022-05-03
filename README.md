@@ -1,4 +1,4 @@
-# Hi, this is Diyap Can Pazar. 🙋🏻‍♂️
+# Hi! 🙋🏻‍♂️
 
 <br>
 Hey I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
