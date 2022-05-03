@@ -63,7 +63,7 @@ Hey I'm Can, a computer engineering student at Eastern Mediterranean University 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
 
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
  ## 📲 Social && Communication
  
