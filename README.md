@@ -1,7 +1,9 @@
 # Hi, this is Diyap Can Pazar. 🙋🏻‍♂️
 
 <br>
-Hey I'm Can, a computer engineering student at Eastern Mediterranean University and a Microsoft Learn Student Ambassador. 👨🏻‍🔬
+Hi there! I'm a highly motivated and results-driven junior computer engineer with a passion for building software with a product-first approach. I have 7+ years of experience in the tech industry and a degree in computer engineering, which has given me a strong foundation in cloud computing systems and agile methodologies.
+
+Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 
 <br>
 
