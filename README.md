@@ -5,13 +5,12 @@ Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer eng
 <br><br>
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
-Yes, using code fencing is the correct way to include code blocks in a README.md file on GitHub. To create a code block, you can use triple backticks 
-'python
+'''
 import pyfiglet
 name = "Diyap can pazar"
 ascii_art_name = pyfiglet.figlet_format(name)
 print(ascii_art_name)
-'
+'''
 
 ##  current-project-skills
  ### ⚐ languages-on-use
