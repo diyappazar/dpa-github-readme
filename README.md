@@ -17,6 +17,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
 
  
  ### frameworks-on-use
@@ -28,7 +29,8 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![WinForms](https://img.shields.io/badge/Winforms-35495E?style=for-the-badge&logo=.net&logoColor=blue)
   
-  
+ 
+ ### technologies-on-use
   
  ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
