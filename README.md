@@ -50,6 +50,9 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiyapcan&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="27%"><br>
 
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## interested-projects-skills 
   ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
