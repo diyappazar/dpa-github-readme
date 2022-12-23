@@ -32,7 +32,6 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  
  ### technologies-on-use
   ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -40,8 +39,8 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Scrum](https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
   ![Kanban](https://img.shields.io/badge/Kanban-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-
-
+  ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=blue)
 
 
 
