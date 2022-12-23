@@ -30,7 +30,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
   ![WinForms](https://img.shields.io/badge/Winforms-35495E?style=for-the-badge&logo=.net&logoColor=blue)
   
  
- ### technologies-on-use
+ ### ⚐ technologies-on-use
   ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,6 +45,12 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
   ![CorelDraw](https://img.shields.io/badge/CorelDraw-black?style=for-the-badge&logo=framer&logoColor=blue)
    ![CorelPhoto](https://img.shields.io/badge/CorelPhoto-black?style=for-the-badge&logo=framer&logoColor=gray)
  
+## github-stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
+ 
+ 
  ## interested-projects-skills
  
  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -57,13 +63,6 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
- 
-  ## 🖥️ GitHub Stats 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyapcanpazar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="60%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyapcanpazar&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="25%">
-
 
 <br><br><br><br><br><br><br><br><br><br>
 
