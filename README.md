@@ -66,6 +66,6 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  [![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/m/diyapcanpazar.11773459/)
 <a href="https://medium.com/@diyapcanpazar" rel="nofollow"><img src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
   ### Communication
- For professinal work:[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diyapcanpazar@outlook.com)
+ For professional work:[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diyapcanpazar@outlook.com)<br>
  For collaboration:   [![Gmail](https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyapcanpazar@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=diyapcanpazar" alt="diyapcanpazar" />
