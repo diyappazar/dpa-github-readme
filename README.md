@@ -5,8 +5,6 @@ Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer eng
 <br><br>
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
-- 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)<br>
-- 🤖 I love data therefore I will master it.
 
 ##  current-project-skills
  ### ⚐ languages-on-use
