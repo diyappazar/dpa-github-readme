@@ -6,7 +6,6 @@ Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer eng
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
 
-* [pyfiglet](https://pypi.org/project/pyfiglet/)
 ```python
 import pyfiglet
 name = "Diyap Can Pazar"
