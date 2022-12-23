@@ -46,7 +46,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
    ![CorelPhoto](https://img.shields.io/badge/CorelPhoto-black?style=for-the-badge&logo=framer&logoColor=gray)
  
 ## github-stats
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="50%">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="55%">
  Would you like to collabrate? 
  We can increase the stats together, here are the
  
