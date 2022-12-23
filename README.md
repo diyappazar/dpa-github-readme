@@ -1,7 +1,7 @@
 # Hi, this is Diyap Can Pazar. 🙋🏻‍♂️
 
 <br>
-Hi there! I'm a highly motivated and results-driven junior computer engineer with a passion for building software with a product-first approach. I have 7+ years of experience in the tech industry and a degree in computer engineering, which has given me a strong foundation in cloud computing systems and agile methodologies.
+Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer engineer. I have 7+ years of experience in the tech industry and a degree in computer engineering.
 
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 
