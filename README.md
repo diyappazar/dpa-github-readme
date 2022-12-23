@@ -6,10 +6,14 @@ Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer eng
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
 
-`import com.github.lalyos.jfiglet.FigletFont;
-String name = "Diyap Can Pazar";
-String asciiArtName = FigletFont.convertOneLine(name);
-System.out.println(asciiArtName);`
+* [pyfiglet](https://pypi.org/project/pyfiglet/)
+```python
+import pyfiglet
+name = "Diyap Can Pazar"
+ascii_art_name = pyfiglet.figlet_format(name)
+print(ascii_art_name)
+```
+
 
 ##  current-project-skills
  ### ⚐ languages-on-use
