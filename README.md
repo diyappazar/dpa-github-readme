@@ -10,7 +10,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)
 - 🤖 I love data therefore I will master it.
 
-## 🆗 Previous State
+## current-project-skills
  ### languages
  
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
@@ -40,12 +40,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
  
- ## 🛫 Current State
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
- 
- ## 🛸 Future State 
+ ## interested-projects-skills
  
  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
