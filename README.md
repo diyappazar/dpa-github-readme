@@ -26,7 +26,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
   ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![WinForms](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=red)
+  ![WinForms](https://img.shields.io/badge/Winforms.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=red)
   
   
   
