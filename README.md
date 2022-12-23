@@ -47,7 +47,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  
 ## github-stats
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="70%">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiyapcan&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="26%"><br>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiyapcan&langs_count=5&theme=tokyonight" alt="Diyap Can's Github Language Stats" width="26%" height="30%"><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
