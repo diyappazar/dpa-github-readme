@@ -8,7 +8,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
 - 📥 How to reach me: [@diyapcanpazar](https://www.linkedin.com/in/diyapcanpazar/)<br>
 - 🤖 I love data therefore I will master it.
 
-## current-project-skills
+##  current-project-skills
  ### ⚐ languages-on-use
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -46,9 +46,9 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
    ![CorelPhoto](https://img.shields.io/badge/CorelPhoto-black?style=for-the-badge&logo=framer&logoColor=gray)
  
 ## github-stats
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="66%">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="50%">
 
-<br><br><br><br><br><br><br><br><br><br>
+
 
 ## interested-projects-skills 
   ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
