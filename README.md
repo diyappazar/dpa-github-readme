@@ -5,6 +5,7 @@ Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer eng
 <br><br>
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
+
 `import com.github.lalyos.jfiglet.FigletFont;
 String name = "Diyap Can Pazar";
 String asciiArtName = FigletFont.convertOneLine(name);
