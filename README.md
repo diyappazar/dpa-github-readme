@@ -9,7 +9,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
 - 🤖 I love data therefore I will master it.
 
 ## current-project-skills
- ### languages-on-use
+ ### ⚐ languages-on-use
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,7 +20,7 @@ Feel free to reach out and say hello - I'm always open to new opportunities and 
  ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
 
  
- ### frameworks-on-use
+ ### ⚐ frameworks-on-use
   ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
   ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
