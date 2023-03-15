@@ -26,13 +26,17 @@ print(ascii_art_name)
  languages = random.sample(items, random.randint(5, 10))
  ```
 
-| Python | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL | 
-
  ## ⚐ frameworks-on-use
- | CodeIgniter 4 | Vue.JS  | Flask  | asp.NET  | Bootstrap  | Tailwind | Winforms | 
+  ```python
+ import random
+ items = ['CodeIgniter 4', 'Vue.JS', 'Flask', 'asp.NET', 'Bootstrap', 'Tailwind', 'Winforms']
+ framworks = random.sample(items, random.randint(5, 10))
+ ```
 
 
-  
+
+  my_list = ['CodeIgniter 4', 'Vue.JS', 'Flask', 'asp.NET', 'Bootstrap', 'Tailwind', 'Winforms']
+
  
  ### ⚐ technologies-on-use
   ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
