@@ -1,7 +1,7 @@
 # This is Diyap Can Pazar. 🙋🏻‍♂️
 
 <br>
-Hi there! This is GitHub of Diyap Can Pazar a results-driven junior computer engineer. I have 7+ years of experience in the tech industry and a degree in computer engineering.
+Hi there! This is GitHub of Diyap Can Pazar currently on MSc. Informatics in Technical University of Munich. I have 5+ years of experience in the tech industry and a degree in computer engineering.
 <br><br>
 Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
 <br><br>
