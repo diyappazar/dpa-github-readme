@@ -36,7 +36,7 @@ print(ascii_art_name)
 ### ⚐ technologies-on-use
   ```python
  import random
- my_list = ['Microsoft Azure','Amazon AWS','Linux','MacOS','Pandas','NumPy','Scrum','Kanban','Git','VMware','Figma','CorelDraw','CorelPhoto']
+ items = ['Microsoft Azure','Amazon AWS','Linux','MacOS','Pandas','NumPy','Scrum','Kanban','Git','VMware','Figma','CorelDraw','CorelPhoto']
  techs = random.sample(items, random.randint(5, 10))
  ```
   
@@ -47,15 +47,12 @@ print(ascii_art_name)
  We can increase the stats together, here are the
  
 ## interested-projects-skills 
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![openCv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  ```python
+ import random
+ items =['TensorFlow','OpenCV','Swift','Node.js','AngularJS','Kotlin']
 
-## archived-projects-skills 
-  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+ interests = random.sample(items, random.randint(5, 10))
+ ```
 
  ## social-and-communication
  
