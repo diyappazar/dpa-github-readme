@@ -19,18 +19,12 @@ print(ascii_art_name)
 
 ##  current-project-skills
  ## ⚐ languages-on-use
- Python  | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL  | 
+| Python | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL | 
+
+ ## ⚐ frameworks-on-use
+ | CodeIgniter 4 | Vue.JS  | Flask  | asp.NET  | Bootstrap  | Tailwind | Winforms | 
 
 
- 
- ### ⚐ frameworks-on-use
-  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-  ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![WinForms](https://img.shields.io/badge/Winforms-35495E?style=for-the-badge&logo=.net&logoColor=blue)
   
  
  ### ⚐ technologies-on-use
