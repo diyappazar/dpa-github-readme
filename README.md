@@ -14,11 +14,18 @@ import pyfiglet
 name = "Diyap Can Pazar"
 ascii_art_name = pyfiglet.figlet_format(name)
 print(ascii_art_name)
+
 ```
 
 
 ##  current-project-skills
  ## ⚐ languages-on-use
+ ```
+ import random
+ items = ['Python', 'C', 'C#', 'Java', 'PHP', 'HTML5 / CSS3', 'SQL']
+ languages = random.sample(items, random.randint(5, 10))
+ ```
+
 | Python | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL | 
 
  ## ⚐ frameworks-on-use
