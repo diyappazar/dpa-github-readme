@@ -30,7 +30,7 @@ print(ascii_art_name)
   ```python
  import random
  items = ['CodeIgniter 4', 'Vue.JS', 'Flask', 'asp.NET', 'Bootstrap', 'Tailwind', 'Winforms']
- frameorks = random.sample(items, random.randint(5, 10))
+ frameworks = random.sample(items, random.randint(5, 10))
  ```
 
 ### ⚐ technologies-on-use
