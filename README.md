@@ -18,7 +18,7 @@ print(ascii_art_name)
 
 
 ##  current-project-skills
- ### ⚐ languages-on-use
+ ## ⚐ languages-on-use
  ###  | Java  | Java  | Java  | Java  | Java  | Java  | Java  | Java  | Java  | Java  | Java 
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white) 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
