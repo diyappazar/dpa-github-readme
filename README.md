@@ -1,9 +1,14 @@
 # This is Diyap Can Pazar. 🙋🏻‍♂️
 
 <br>
-Hi there! This is GitHub of Diyap Can Pazar currently on MSc. Informatics in Technical University of Munich. I have 5+ years of experience in the tech industry and a degree in computer engineering.
-<br><br>
-Feel free to reach out and say hello - I'm always open to new opportunities and connections. 👨🏻‍🔬
+Greetings! It's a pleasure to have you visit my GitHub. As an accomplished individual with a degree in computer engineering and over 5 years of experience in the tech industry, I'm currently pursuing my MSc in Informatics from the prestigious Technical University of Munich in Germany. My focus lies in the exciting and constantly-evolving fields of AI, machine learning, and deep learning.
+
+Through my academic and professional pursuits, I've acquired a wealth of knowledge and expertise in these domains, and I'm always eager to stay abreast of the latest developments and technologies. 
+
+If you'd like to connect or have an opportunity you think I'd be a great fit for, don't hesitate to say hello. I'm always open to new connections and possibilities. Thanks for stopping by! 👨🏻‍🔬
+
+
+
 <br><br>
 
 ```python
