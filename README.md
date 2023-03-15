@@ -20,7 +20,7 @@ print(ascii_art_name)
 
 ##  current-project-skills
  ## ⚐ languages-on-use
- ```
+ ```python
  import random
  items = ['Python', 'C', 'C#', 'Java', 'PHP', 'HTML5 / CSS3', 'SQL']
  languages = random.sample(items, random.randint(5, 10))
