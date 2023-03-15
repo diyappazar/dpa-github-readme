@@ -19,7 +19,7 @@ print(ascii_art_name)
 
 ##  current-project-skills
  ## ⚐ languages-on-use
- ### Python  | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL  | 
+ ###Python  | C  | C#  | Java  | PHP  | HTML5 / CSS3 | SQL  | 
 
 
  
