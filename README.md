@@ -30,28 +30,16 @@ print(ascii_art_name)
   ```python
  import random
  items = ['CodeIgniter 4', 'Vue.JS', 'Flask', 'asp.NET', 'Bootstrap', 'Tailwind', 'Winforms']
- framworks = random.sample(items, random.randint(5, 10))
+ frameorks = random.sample(items, random.randint(5, 10))
  ```
 
-
-
-  my_list = ['CodeIgniter 4', 'Vue.JS', 'Flask', 'asp.NET', 'Bootstrap', 'Tailwind', 'Winforms']
-
- 
- ### ⚐ technologies-on-use
-  ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scrum](https://img.shields.io/badge/Scrum-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-  ![Kanban](https://img.shields.io/badge/Kanban-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-  ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=blue)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![CorelDraw](https://img.shields.io/badge/CorelDraw-black?style=for-the-badge&logo=framer&logoColor=blue)
-   ![CorelPhoto](https://img.shields.io/badge/CorelPhoto-black?style=for-the-badge&logo=framer&logoColor=gray)
+### ⚐ technologies-on-use
+  ```python
+ import random
+ my_list = ['Microsoft Azure','Amazon AWS','Linux','MacOS','Pandas','NumPy','Scrum','Kanban','Git','VMware','Figma','CorelDraw','CorelPhoto']
+ techs = random.sample(items, random.randint(5, 10))
+ ```
+  
  
 ## github-stats
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamdiyapcan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Diyap Can's Github Stats" width="55%">
